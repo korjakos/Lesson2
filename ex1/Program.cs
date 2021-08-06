@@ -7,6 +7,7 @@ namespace ex1
         static void Main(string[] args)
         {
             //Нурумов Олжас
+            //Вычислить наименьшее число
             int a, b, c, min;
             Console.Write("Введите число А: ");
             a = Convert.ToInt32(Console.ReadLine());

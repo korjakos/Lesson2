@@ -7,6 +7,7 @@ namespace ex2
         static void Main(string[] args)
         {
             //Нурумов Олжас
+            //Подсчет количества цифр числа
             Console.Write("Введите число: ");
             int a = Convert.ToInt32(Console.ReadLine());
             int x = 0;
